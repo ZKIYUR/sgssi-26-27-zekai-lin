@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Claves privadas: nunca deben subirse al repositorio
+*.pem
+id_ed25519
+id_rsa
